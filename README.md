@@ -19,7 +19,6 @@ Project Requirements:
 - The site is meant to be informational (not currently meant for direct sales, but leading users to partnered sellers).
 - The following pages were needed: Homepage, Products pages, Stores pages (Retail & Wholesale), Media pages, About Us, Contact Us Form.
 - New content needed to be written for the website.
--  
 
 Site Breakdown:
 - Global Header: A responsive header containing site navigation. This header is loaded onto each page during page load.
